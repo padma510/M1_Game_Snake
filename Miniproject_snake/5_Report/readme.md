@@ -1027,9 +1027,8 @@ LT2 | Since there is no wall logic in our game, the game may end only with the s
 
 ![main_screen](https://user-images.githubusercontent.com/94212251/143063748-c567ef96-1a76-48da-a022-ba3442257d19.png)
 
-# VIDEOS:
 
-https://itsourcecode.com/free-projects/c-projects/snake-game-in-c-programming-with-source-code/
+
 
 
 
